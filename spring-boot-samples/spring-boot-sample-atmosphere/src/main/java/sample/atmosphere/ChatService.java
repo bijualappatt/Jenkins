@@ -79,4 +79,8 @@ public class ChatService {
 
 	}
 
+
+	public string SayHello() {
+		return "Hello";
+	}
 }
